@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mili Murmu
 - 👀 I’m interested in Developer and Softwear Engineering
-- 🌱 I’m currently learning competetive programming and wed developer
+- 🌱 I’m currently learning competetive programming and web developer
 - 📫 How to reach me - github : @Mili-95
 
 <!---
